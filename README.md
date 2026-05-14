@@ -1,4 +1,3 @@
-
 # FastApi: Enterprise-Grade, Type-Safe, High-Performance, GraphQL-Integrated Framework for Building Fault-Tolerant, Real-Time Applications with Unparalleled Velocity Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
 
